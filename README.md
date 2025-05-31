@@ -4,7 +4,6 @@ Efficient water management is a critical factor in sustainable agriculture and h
 
 This repository includes the code of *Aquabloom Web* for users to access the decision tree model prediction with a user-friendly interface. With this web, users can choose options of their crop type, soil type, region, temperature, and the weather conditions of the plant's region. The dataset used was from here: https://www.kaggle.com/datasets/prateekkkumar/crop-water-requirement
 
-<br></br>
 # 💼 Dependencies
 
 In order to start, a few dependencies need to be installed in your environment. For the back-end, these are the dependencies needed:
@@ -20,8 +19,6 @@ For front-end, this web uses React as a library. So don't forget to install the 
 ```
 npm install
 ```
-
-<br></br>
 
 # 🧔 Credit
 The decision tree model was made by @nicholastunru (https://github.com/nicholastunru)
